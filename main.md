@@ -23,10 +23,10 @@ v1.0.0 을 시작으로 하여, CRUD같이 기능적인 측면이 추가될 경�
 
 ## 개발환경
 
-|조원|주요개발환경|버전관리|DBMS|OS|
-|-|-|-|-|-|
-|장민호|Eclipse|Visual Studio Code|MySQL|Linux(ubuntu 20.04)|
-|고병현|Eclipse|Visual Studio Code|Oracle|Window10|
+|조원|주요개발환경|버전관리|소통|DBMS|OS|
+|-|-|-|-|-|-|
+|장민호|Eclipse|Visual Studio Code|Discord|MySQL|Linux(ubuntu 20.04)|
+|고병현|Eclipse|Visual Studio Code|Discord|Oracle|Window10|
 
 ## 설계서 내용 
 
