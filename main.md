@@ -28,9 +28,8 @@ v1.0.0 을 시작으로 하여, CRUD같이 기능적인 측면이 추가될 경�
 |장민호|Eclipse|Visual Studio Code|Discord|MySQL|Linux(ubuntu 20.04)|
 |고병현|Eclipse|Visual Studio Code|Discord|Oracle|Window10|
 
-## 설계서 내용 
-
 ## UF, ERD
+VSC 참고 
 
 ## 소감
 스스로 해보는 것과 누군가가 하는것을 따라하는것은 천지차이라는것을 다시금 느끼게 되는 계기가 되었다. 남들이 할 때는 그냥 그런가보다 하고 지나갔던 사소한 코드들도 내가 직접 해보면 이 코드를 왜 써야 하는지 하나하나 이해하고 있어야 한다는 점에서 배울점이 많았다.  
