@@ -12,7 +12,7 @@ java -version: openjdk-11-jdk\
 develop environment: eclipse-photon\
 made for: review MVC design pattern, by using jsp
 
-skills:/
+skills:\
   M: JNDI(Java Naming and Directory Interface)\
   V: EL(Expression Language), JSTL(JavaServer Pages Standard Tag Library), CustomTag\
   C: Everything requested by the client is controlled by one controller. 
